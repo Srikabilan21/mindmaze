@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MindMaze:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MindMaze_jar</output-path>
+    <root id="archive" name="MindMaze.jar">
+      <element id="module-output" name="MindMaze" />
+    </root>
+  </artifact>
+</component>

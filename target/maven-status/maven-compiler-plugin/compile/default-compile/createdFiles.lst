@@ -1,0 +1,10 @@
+rooms\ScoreManager.class
+rooms\GameFlow.class
+rooms\MemoryRoom.class
+rooms\LogicRoom.class
+rooms\ResultRoom.class
+rooms\MazeRoom.class
+rooms\GameManager.class
+rooms\ReflexRoom.class
+Main.class
+rooms\TypingRoom.class
