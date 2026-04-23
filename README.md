@@ -40,17 +40,6 @@ The application is divided into multiple interactive rooms, each offering a uniq
 
 ---
 
-## 📸 Screenshots
-
-> *(Add your screenshots in the repo and update file names below)*
-
-![Home Screen](images/home.png)
-![Logic Room](images/logic.png)
-![Memory Room](images/memory.png)
-![Maze Room](images/maze.png)
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository:
@@ -59,9 +48,9 @@ The application is divided into multiple interactive rooms, each offering a uniq
 git clone https://github.com/Srikabilan21/mindmaze.git
 ```
 
-2. Open in IntelliJ IDEA / any Java IDE
+2. Open the project in IntelliJ IDEA or any Java IDE
 
-3. Make sure JavaFX is configured properly
+3. Configure JavaFX (if not already set up)
 
 4. Run the main class:
 
@@ -82,7 +71,6 @@ MindMaze/
 │   ├── maze/
 │
 │── resources/
-│── images/
 │── README.md
 ```
 
@@ -112,3 +100,4 @@ This project was developed as a student-level application to:
 **Sri Kabilan**
 
 ---
+
